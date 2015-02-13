@@ -11,10 +11,6 @@ The project tree is set up as follows:
 
 <table>
  <tr>
-  <td>.settings</td>
-  <td>Eclipse specific settings. Useful for character encoding and formatting (for devs using eclipse anyway)</td>
- </tr>
- <tr>
   <td>api/</td>
   <td>java and resource files for building the java api jar file.</td>
  </tr>
@@ -47,7 +43,7 @@ The project tree is set up as follows:
   <td>(deprecated) ANT build file containing convenience methods into the maven build</td>
  </tr>
  <tr>
-  <td>license.txt</td>
+  <td>LICENSE</td>
   <td>The OpenMRS license</td>
  </tr>
  <tr>
